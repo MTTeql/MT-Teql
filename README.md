@@ -1,6 +1,6 @@
 # MT-Teql-artifact
 
-Artifact of our ACL'20 submission. The code is tested with Python 3.6. The 
+Artifact of our submission. The code is tested with Python 3.6. The 
 dependencies can be installed with the following command.
 
 ```shell
