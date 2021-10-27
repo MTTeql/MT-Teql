@@ -1,6 +1,7 @@
 # MT-Teql-artifact
 
-Artifact of our submission. The code is tested with Python 3.6. The 
+Artifact of our paper "MT-Teql: Evaluating and Augmenting Neural NLIDB on Real-world Linguistic 
+and Schema Variations" (VLDB’22). The code is tested with Python 3.6. The 
 dependencies can be installed with the following command.
 
 ```shell
@@ -12,6 +13,11 @@ pip install -r requirements.txt
 
 1. download Spider dataset from [https://yale-lily.github.io/spider](https://yale-lily.github.io/spider)
 2. place ```train_spider.json```, ```dev.json``` and ```tables.json``` under ```data``` folder.
+
+## Augmented Dataset, Pretrained Model Weight File and Experimental Data
+
+Please refer to [http://bit.ly/MT-Teql-data](http://bit.ly/MT-Teql-data). We released all data to 
+reproduce our experiments.
 
 ## Generate Mutations
 
